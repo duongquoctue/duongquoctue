@@ -3,10 +3,18 @@
 <h3 align="center">Software Engineer wannabe, a life-long learner</h3>
 
 <h3 align="center" style="display:flex; justify-content: space-evenly">
-<img height=40 src="assets/logo_gmail.svg" />
+<a href="https://www.linkedin.com/in/duongquoctue">
 <img height=40 src="assets/logo_linkedin.svg" />
+</a>
+<a href="mailto:duongquoctue@gmail.com">
+<img height=40 src="assets/logo_gmail.svg" />
+</a>
+<a href="https://t.me/dqtue">
 <img height=40 src="assets/logo_telegram.svg" />
+</a>
+<a href="https://www.facebook.com/rnzlrdqt/">
 <img height=40 src="assets/logo_fb.svg" />
+</a>
 </h3>
 
 ### Something about myself
