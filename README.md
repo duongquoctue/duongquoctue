@@ -1,6 +1,6 @@
 <h2 align="center">Xin chao 👋, I'm Tue</h2>
 
-<h3 align="center">Software engineer wannabe, a life-long learner</h3>
+<h3 align="center">Software Engineer wannabe, a life-long learner</h3>
 
 <h3 align="center" style="display:flex; justify-content: space-evenly">
 <img height=40 src="assets/logo_gmail.svg" />
@@ -20,6 +20,7 @@
 <img src="assets/logo_vue.svg" />
 <img src="assets/logo_react.svg" />
 <img src="assets/logo_sass.svg" />
+<img src="assets/logo_nestjs.svg" />
 <img src="assets/logo_nodejs.svg" />
 <img src="assets/logo_mongo.svg" />
 <img src="assets/logo_go.svg" />
