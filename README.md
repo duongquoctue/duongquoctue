@@ -2,20 +2,24 @@
 
 <h3 align="center">Software engineer wannabe, a life-long learner</h3>
 
-<h3 align="center">
-<img height=30 src="assets/logo_fb.svg" />
-<img height=30 src="assets/logo_linkedin.svg" />
-<img height=30 src="assets/logo_telegram.svg" />
+<h3 align="center" style="display:flex; justify-content: space-evenly">
+<img height=40 src="assets/logo_gmail.svg" />
+<img height=40 src="assets/logo_linkedin.svg" />
+<img height=40 src="assets/logo_telegram.svg" />
+<img height=40 src="assets/logo_fb.svg" />
 </h3>
 
-### I am...
-* Highly passionate about technology
-* Currently learning Go
+### Something about myself
+- Highly passionate about technology
+- Currently learning Go
+- Open with interesting side-projects (hit me up!)
 
 ### Languages and Frameworks
-<h3 align="left">
+<h3 align="left" style="display:flex; justify-content: space-evenly">
 <img src="assets/logo_ts.svg" />
+<img src="assets/logo_vue.svg" />
 <img src="assets/logo_react.svg" />
+<img src="assets/logo_sass.svg" />
 <img src="assets/logo_nodejs.svg" />
 <img src="assets/logo_mongo.svg" />
 <img src="assets/logo_go.svg" />
@@ -24,12 +28,15 @@
 </h3>
 
 ### Tools i use daily:
-<h3 align="left">
+<h3 align="left" style="display:flex; justify-content: space-evenly">
+<img src="assets/logo_vscode.svg" />
+<img src="assets/logo_git.svg" />
 <img src="assets/logo_slack.svg" />
+<img src="assets/logo_clickup.svg" />
 </h3>
 
 ### I'm also into cryptocurrency!
-<h3 align="left">
-<img src="assets/logo_neo.svg" />
+<h3 align="left" style="display:flex; justify-content: space-evenly">
 <img src="assets/logo_binance.svg" />
+<img src="assets/logo_neo.svg" />
 </h3>
