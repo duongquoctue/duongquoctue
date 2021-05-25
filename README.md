@@ -13,6 +13,7 @@
 * Currently learning Go
 
 ### Languages and Frameworks
+<h3 align="left">
 <img src="assets/logo_ts.svg" />
 <img src="assets/logo_react.svg" />
 <img src="assets/logo_nodejs.svg" />
@@ -20,10 +21,15 @@
 <img src="assets/logo_go.svg" />
 <img src="assets/logo_cpp.svg" />
 <img src="assets/logo_python.svg" />
+</h3>
 
 ### Tools i use daily:
+<h3 align="left">
 <img src="assets/logo_slack.svg" />
+</h3>
 
 ### I'm also into cryptocurrency!
+<h3 align="left">
 <img src="assets/logo_neo.svg" />
 <img src="assets/logo_binance.svg" />
+</h3>
