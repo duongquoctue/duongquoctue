@@ -19,7 +19,6 @@
 
 ### Something about myself
 - Highly passionate about technology
-- Currently learning Go
 - Open with interesting side-projects (hit me up!)
 
 ### Languages and Frameworks
@@ -41,11 +40,9 @@
 <img src="assets/logo_vscode.svg" />
 <img src="assets/logo_git.svg" />
 <img src="assets/logo_slack.svg" />
-<img src="assets/logo_clickup.svg" />
 </h3>
 
 ### I'm also into cryptocurrency!
 <h3 align="left" style="display:flex; justify-content: space-evenly">
 <img src="assets/logo_binance.svg" />
-<img src="assets/logo_neo.svg" />
 </h3>
