@@ -1,6 +1,6 @@
 <h2 align="center">Xin chao 👋, I'm Tue</h2>
 
-<h3 align="center">Software Engineer wannabe, a life-long learner</h3>
+<h3 align="center">Software Engineer, a life-long learner</h3>
 
 <h3 align="center" style="display:flex; justify-content: space-evenly">
 <a href="https://www.linkedin.com/in/duongquoctue">
